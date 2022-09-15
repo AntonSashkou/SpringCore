@@ -1,6 +1,5 @@
-package com.sashkou.springcore.context;
+package com.sashkou.springcore.factory.json;
 
-import com.sashkou.springcore.reader.JsonBeanDefinitionReader;
 import org.springframework.context.support.GenericApplicationContext;
 
 public class ClassPathJsonApplicationContext extends GenericApplicationContext {

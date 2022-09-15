@@ -1,0 +1,5 @@
+{
+  "id": "service",
+  "name": "service",
+  "class": "com.sashkou.springcore.service.Service"
+}
